@@ -3,6 +3,7 @@
 [![Build status](https://github.com/xplorfin/tlsutils/workflows/test/badge.svg)](https://github.com/xplorfin/tlsutils/actions?query=workflow%3Atest)
 [![Build status](https://github.com/xplorfin/tlsutils/workflows/goreleaser/badge.svg)](https://github.com/xplorfin/tlsutils/actions?query=workflow%3Agoreleaser)
 [![](https://godoc.org/github.com/xplorfin/tlsutils?status.svg)](https://pkg.go.dev/github.com/xplorfin/tlsutils)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xplorfin/tlsutils)](https://goreportcard.com/report/github.com/xplorfin/tlsutils)
 
 # Tlsutils
 

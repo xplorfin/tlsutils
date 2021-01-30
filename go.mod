@@ -10,7 +10,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fasthttp/router v1.3.5
 	github.com/gophercloud/gophercloud v0.15.0
-	github.com/jarcoal/httpmock v1.0.7
+	github.com/jarcoal/httpmock v1.0.8
 	github.com/jpillora/backoff v1.0.0
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect

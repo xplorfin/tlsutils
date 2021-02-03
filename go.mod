@@ -17,7 +17,7 @@ require (
 	github.com/onsi/ginkgo v1.14.2 // indirect
 	github.com/onsi/gomega v1.10.4 // indirect
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
-	github.com/r3labs/diff/v2 v2.9.1
+	github.com/r3labs/diff/v2 v2.10.0
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/spf13/afero v1.5.1 // indirect
 	github.com/urfave/cli/v2 v2.3.0 // indirect

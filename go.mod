@@ -9,7 +9,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fasthttp/router v1.3.7
-	github.com/gophercloud/gophercloud v0.15.0
+	github.com/gophercloud/gophercloud v0.16.0
 	github.com/jarcoal/httpmock v1.0.8
 	github.com/jpillora/backoff v1.0.0
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect

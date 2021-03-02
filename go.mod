@@ -8,7 +8,7 @@ require (
 	github.com/brianvoe/gofakeit/v5 v5.11.2
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/fasthttp/router v1.3.8
+	github.com/fasthttp/router v1.3.9
 	github.com/gophercloud/gophercloud v0.16.0
 	github.com/jarcoal/httpmock v1.0.8
 	github.com/jpillora/backoff v1.0.0

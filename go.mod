@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/Flaque/filet v0.0.0-20201012163910-45f684403088
 	github.com/Pallinder/go-randomdata v1.2.0
-	github.com/brianvoe/gofakeit/v5 v5.11.2
+	github.com/brianvoe/gofakeit/v6 v6.2.2
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fasthttp/router v1.3.9

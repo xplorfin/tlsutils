@@ -1,9 +1,10 @@
 package mock
 
 import (
+	"testing"
+
 	"github.com/Flaque/filet"
 	"github.com/xplorfin/tlsutils"
-	"testing"
 )
 
 // create a temporary certificate key/value pair that's deleted after the test that's delted

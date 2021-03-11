@@ -16,3 +16,4 @@ This is a series of networking utilities and test wrappers by [entropy](http://e
  # What can I do with this?
 
 *Note:* the tls module requires go 1.15
+-

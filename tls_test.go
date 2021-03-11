@@ -1,12 +1,13 @@
 package tlsutils
 
 import (
+	"sync"
+	"testing"
+
 	"github.com/brianvoe/gofakeit/v5"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/gophercloud/gophercloud/acceptance/tools"
 	"github.com/r3labs/diff/v2"
-	"sync"
-	"testing"
 )
 
 var allBoolOptions = []bool{true, false}

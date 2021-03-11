@@ -3,9 +3,10 @@ package mock
 import (
 	"crypto/x509"
 	"encoding/pem"
-	"github.com/xplorfin/tlsutils"
 	"io/ioutil"
 	"testing"
+
+	"github.com/xplorfin/tlsutils"
 )
 
 func TestTemporaryCert(t *testing.T) {

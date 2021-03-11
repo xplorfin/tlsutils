@@ -13,11 +13,12 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"github.com/dgrijalva/jwt-go"
 	"math/big"
 	"net"
 	"strings"
 	"time"
+
+	"github.com/dgrijalva/jwt-go"
 )
 
 func MakeSubject() pkix.Name {

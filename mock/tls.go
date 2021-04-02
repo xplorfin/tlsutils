@@ -3,7 +3,7 @@ package mock
 import (
 	"testing"
 
-	"github.com/Flaque/filet"
+	"github.com/xplorfin/filet"
 	"github.com/xplorfin/tlsutils"
 )
 

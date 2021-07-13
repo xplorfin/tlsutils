@@ -9,7 +9,7 @@ require (
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/gophercloud/gophercloud v0.18.0
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/r3labs/diff/v2 v2.13.5
+	github.com/r3labs/diff/v2 v2.13.6
 	github.com/xplorfin/filet v0.3.0
 	golang.org/x/net v0.0.0-20210226101413-39120d07d75e // indirect
 	golang.org/x/text v0.3.5 // indirect

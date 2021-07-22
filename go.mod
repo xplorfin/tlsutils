@@ -7,7 +7,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/golang/protobuf v1.4.2 // indirect
-	github.com/gophercloud/gophercloud v0.18.0
+	github.com/gophercloud/gophercloud v0.19.0
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/r3labs/diff/v2 v2.13.6
 	github.com/xplorfin/filet v0.3.0

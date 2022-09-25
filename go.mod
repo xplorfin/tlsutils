@@ -1,6 +1,6 @@
 module github.com/xplorfin/tlsutils
 
-go 1.15
+go 1.19
 
 require (
 	github.com/brianvoe/gofakeit/v5 v5.11.2
